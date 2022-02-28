@@ -1,0 +1,526 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe exposition, paraphrase, or interpretation, upon the Lord of Canterburies sermon or speech, upon the last pulpit that ever he preached, which was the scaffold on Tower-hill. Also, upon the prayer which he used at the same time and place before his execution. Written by William Starbucke Gentleman, to give the people a glimmering of the Bishops hypocrisie.</title>
+            <author>Starbuck, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93805</idno>
+            <idno type="STC">Wing S5266</idno>
+            <idno type="STC">Wing F2380</idno>
+            <idno type="STC">Thomason E26_1*</idno>
+            <idno type="STC">Thomason E26_1</idno>
+            <idno type="STC">ESTC R4271</idno>
+            <idno type="EEBO-CITATION">99872635</idno>
+            <idno type="PROQUEST">99872635</idno>
+            <idno type="VID">154979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154979)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E26[1*]; 5:E26[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe exposition, paraphrase, or interpretation, upon the Lord of Canterburies sermon or speech, upon the last pulpit that ever he preached, which was the scaffold on Tower-hill. Also, upon the prayer which he used at the same time and place before his execution. Written by William Starbucke Gentleman, to give the people a glimmering of the Bishops hypocrisie.</title>
+                  <author>Starbuck, William.</author>
+               </titleStmt>
+               <extent>[4], 16 p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Starbuck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The woodcut frontispiece has title "The full view of Canterburies fall, from POP deliver us all". Although the leaf is identified as a broadside in Wing (F2380), all copies seen are bound with the work by Starbuck.</note>
+                  <note>Annotation on Thomason copy: The 5 in the imprint date has been crossed out; "Jan: 22nd 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laud, William, 1573-1645. --  Archbishop of Canterbury's speech: or his funerall sermon --  Controversial literature --  Early works to 1800.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:154979:1"/>
+            <pb facs="tcp:154979:1" rendition="simple:additions"/>
+            <p>THE FULL VIEW OF Canterburies fall, From POP deliver us all.</p>
+            <p>
+               <hi>Grace, and no grace, Hath wrought thy diſgrace.</hi>
+            </p>
+            <figure>
+               <lg>
+                  <l>My head that wrought all miſery</l>
+                  <l>is ſmitten off, as you may ſee,</l>
+                  <l>You Prelats be warned by me,</l>
+                  <l>the reward of evill juſt you ſee</l>
+               </lg>
+               <lg>
+                  <l>Laud ſought applaud,</l>
+                  <l>but juſtice turnd the wheele.</l>
+                  <l>Hadſt thou been good,</l>
+                  <l>thou hadſt been graced ſtill</l>
+               </lg>
+               <lg>
+                  <l>O' Canterbury,</l>
+                  <l>had you had grace</l>
+                  <l>For to beware</l>
+                  <l>this preaching place,</l>
+                  <l>Then had you better</l>
+                  <l>provd to be,</l>
+                  <l>And praiſes gaind</l>
+                  <l>eternally.</l>
+               </lg>
+            </figure>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:154979:2"/>
+            <pb facs="tcp:154979:2" rendition="simple:additions"/>
+            <p>A Briefe EXPOSITION, PARAPHRASE, OR INTERPRETATION, UPON THE Lord of Canterburies Sermon or Speech, upon the laſt Pulpit that ever he preached, which was the Scaffold on Tower-hill.</p>
+            <p>Alſo, upon the Prayer which he uſed at the ſame time and place before his Execution.</p>
+            <p>Written by <hi>William Starbucke</hi> Gentleman, to give the people a glimmering of the Biſhops hypocriſie.</p>
+            <q>
+               <bibl>
+                  <hi>MATTH. 7.15.</hi>
+               </bibl> Beware of falſe Prophets which come to you in ſheeps cloathing, but inwardly they are ravening wolves.</q>
+            <q>
+               <bibl>
+                  <hi>PROVERB. 26.24.</hi>
+               </bibl> He that hateth diſſembling with his lips, and layeth up deceit within him: when he ſpeakes faire believe him not, for there are ſeven abominations in his heart.</q>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>William Starbuck.</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154979:3"/>
+            <pb n="1" facs="tcp:154979:3"/>
+            <head>To the Chriſtian READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hriſtian Reader, I know your expectations, or your deſires by your Queres, Queſtions, Anſwers, and Objections; or rather indeed by many of your diſtractions: to wit, What do you think of my Lord of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> his Speech or Ser<g ref="char:EOLhyphen"/>mon? how did you like it? To which Queres, Que<g ref="char:EOLhyphen"/>ſtions, Anſwers, Objections, and Diſtractions, I will give as briefe an anſwer as I may, for theſe reaſons: firſt, in regard of my little time; for things in this na<g ref="char:EOLhyphen"/>ture require haſt. Secondly, of my unability, for there
+<pb n="2" facs="tcp:154979:4"/>is ſuch deepe myſteries, as Latine, and other ſentences, that I and many more cannot finde out the depth of it in a ſhort time, and it may be never, in regard of his hy<g ref="char:EOLhyphen"/>pocriſie. Thirdly, too
+<note n="(a)" place="margin">Eccl. 12.</note> much writing or reading is a wearineſſe both to the writer and reader.</p>
+            <p>Firſt, what doe you thinke of his Sermon or repen<g ref="char:EOLhyphen"/>tance? my skill or underſtanding deceiveth me, if <hi>Judas</hi> his repentance were not as good, and <hi>Achans,</hi> if not both rather better: for <hi>Judas</hi> confeſſed a particu<g ref="char:EOLhyphen"/>lar ſin, not onely, <hi>I have ſinned,</hi> but, I <hi>have ſinned in betraying the
+<note n="(b)" place="margin">Mat. 27.4.</note> innocent blood. Achan</hi> likewiſe, not, <hi>I am a ſinner,</hi> or onely, <hi>I have ſinned againſt the Lord;</hi> but, thus and thus have I done, <hi>I ſaw a Babyloniſh garment, and two wedges of Gold, and I coveted them.</hi> In doing this, the Text ſaith, <hi>he gave glory, unto the
+<note n="(c)" place="margin">Ioſh 7.19, 20</note> Lord God.</hi> But how many of the Saints of God ſtood and ſate looking with their eyes, and hearing with their eares, and de<g ref="char:EOLhyphen"/>ſiring with their prayers, that God would, if it were his will, give him repentance, whoſe innocent blood he had been the arch ſpiller of, ſome of them, or their friends; witneſſe Maſter <hi>Burton,</hi> Mr. <hi>Prynne,</hi> Doctor <hi>Baſtwicke,</hi> and Mr. <hi>Lilburne,</hi> beſides the man that was put to death as a Traytor, for him, which it may be ſaw the ſpilling of his, ſome of them: how many were
+<pb n="3" facs="tcp:154979:4"/>there; nay rather, how many thouſands, which ſome of them he had been the arch impriſoner of; <hi>laying waite for the
+<note n="(d)" place="margin">Prov. 14.15.</note> righteous, and ſpoiling them of their reſting place,</hi> cauſing them to flie from one Pariſh to another, one Towne to another, one City to another; nay, from one Land to another, many into <hi>New-England,</hi> ſome to the <hi>Weſt-Indies,</hi> and other places of the World: which of any of all theſe heard this Merchant, or great man of the earth, which by his policy robd and deceived the Nations, waxing rich by his ſorceries, to confeſſe any ſinne or ſinnes, to
+<note n="(e)" place="margin">Ezek. 18.17.</note> re<g ref="char:EOLhyphen"/>ſtore any pledge or pledges, either publiquely, or pri<g ref="char:EOLhyphen"/>vately; aske M<hi rend="sup">is</hi>. <hi>S.I.</hi> and others, which have been with him, and then judge of my thoughts; and parallel <hi>Judaſes</hi> and <hi>Achans</hi> repentance, and then tell me, which of them is the worſt: and now, as in a wilder<g ref="char:EOLhyphen"/>neſſe, not knowing how to get out, I end my Epiſtle, and begin to ſuſpend my thoughts upon his Speech or Ser<g ref="char:EOLhyphen"/>mon; and where I come too ſhort, I refer you to Maſter <hi>Prynnes, Deeds of darkneſſe,</hi> which I heare ſay is comming forth, if it be not already.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154979:5"/>
+            <pb n="5" facs="tcp:154979:5"/>
+            <epigraph>
+               <bibl>
+                  <hi>HEBREVVES 12.1, 2.</hi>
+               </bibl>
+               <q>Let us run with patience the race that is ſet before us, looking unto Jeſus the Author and finiſher of our faith, who for the joy that was ſet before him indurd the Croſſe, deſpiſing the ſhame, and is ſet down at the right hand of the Throne of God.</q>
+            </epigraph>
+            <div type="part">
+               <head>The VVriters Apology.</head>
+               <p>
+                  <seg rend="decorInit">G</seg>Ood people, my Apology is, as my Lord ſaith in a nother caſe, that you would pardon my boldneſſe, if I follow the Prophets expreſſi<g ref="char:EOLhyphen"/>ons to the prieſts of <hi>Baall,</hi> whoſe Sermon I have heer to deale with, although as ſeldom as I may which was ironically ſpoken: cry aloud, it may be he is in a journey, or aſleepe; which was the preachers practice to both young and old, <hi>Rejoyce young man in thy youth, and let thy heart cheere thee in the dayes of thy youth: and walke in the wayes of thy heart,</hi> (as he did) <hi>and in the ſight of thine eyes: but for all theſe things God will bring thee unto judgement.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:154979:6"/>
+               <head>The Biſhops Apology.</head>
+               <p>FIrſt, before my Lord begun his Sermon he deſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed the good people to pardon his old memory, but by right he ſhould have craved pardon when he was younger, for his memory was as ill to be truſted then as now, but at that time he granted out ſo many pardons to others, and abſolutions, that he forgot his own, or elſe it ſlipt out of his memory; but it may be, he had it from the Pope long ſince, and then it might be in his Study or in ſome little blacke box, and ſo as ſafe as his own Licence or the reſt of the prieſts, that was made by him or his ſuc<g ref="char:EOLhyphen"/>ceſſors.</p>
+               <p>Secondly, he told us upon what ocaſion he came thither, included in theſe words, <hi>I am come;</hi> he came indeed, but he muſt needs come when he could not tell how to helpe it; for had not the Sheriffes and their Officers, according to an Ordinance of Parliament, brought him thither, as <hi>Eliſha</hi> ſaid in another caſe, ſo ſay I, you ſhould not have ſeene his face that day, eſpecially upon, or in that pulpit.</p>
+               <p>Thirdly, he ſaid he muſt make uſe of his paper; he dare not truſt himſelfe otherwiſe: but for my part I thin he he never had a ſtronger motive to ſtir up his memory, ſo that if he had never preached but upon a paper all hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> life before, he might have throwne away his paper then except his Sermon had been longer, but he that hath not the Spirit to depend upon, to bring things into his memo<g ref="char:EOLhyphen"/>ry, and hath not a mouth and wiſdome given him from God, he muſt needs truſt to ſomething, let him truſt to his paper.</p>
+               <p>Fourthly, and laſtly he ſaith, <hi>good people,</hi> but he leaves out all, you know what he meanes, <hi>that is an uncomfor<g ref="char:EOLhyphen"/>table
+<pb n="7" facs="tcp:154979:6"/>place to Preach in.</hi> I grant it, for if no afflictions are joyous to the gooly for the preſent, then much more no puniſhments to the wicked, for the prophet ſaith <hi>no peace
+<note n="*" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> ſpeaketh my God to the wicked:</hi> beſides to preach glad ti<g ref="char:EOLhyphen"/>dings unto others and his own Funerall Sermon, it was <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> an uncomfortable time, but the place was good enough<g ref="char:punc">▪</g> for he never had more roome, (had the ſcaffold been but empty) nor yet a greater audience of people; ſo much for his Apology, now I come to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ex <hi>Heb.</hi> 12.1.2.</p>
+               <p>As his memory was not to be truſted to, but his paper, and his place very uncomfortable, ſo his time was very ſhort, for he wanted time, otherwiſe he would have de<g ref="char:EOLhyphen"/>vided his Text; but to ſhow his ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hollerſhip in too many places, (though it would not have charged his memory, yet his paper,) being charged in the 7. 10. 13. 14, 18, 19. pages too much Latine, except it had bin all interpreted, or elſe he mighth <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve been affraid of this word <hi>us:</hi> for this word <hi>us</hi> would have ſhewed, that it was meant the ſaints, and not Traitors or impenitent Malefactors, for the cloud of witneſſes before uſed, were ſuch as were perſecuted by ſuch as himſelfe, themſelves being no perſecuter; He ſaith he hath bin long running the Race, I canno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſay ſo, a Race, but not the Race: for if he had begun, Chriſt which was the Author, would have him the finiſher, or if he had bin the finiſher, he would have finiſhed his worke better, therefore you ſay well, you are come to the end of your owne Race. You ſay that the ſhame muſt be deſpiſed, or elſe there is no comming to the crowne, I had thought the crowne had bin come to by the free grace of God, and ſufferings and effect, in thoſe which have received the aſſurance, but now I ſee your Arminianiſm and your gene<g ref="char:EOLhyphen"/>rall Redemntion although you have kept it cloſe, you tell us he hath deſpiſed the ſhame for you, then Chriſt hath
+<pb n="8" facs="tcp:154979:7"/>died for all, and if he died for all, then all ſhall be ſaved, <hi>Indas</hi> ſhare and yours is as good as the reſt of the Diſ<g ref="char:EOLhyphen"/>ciples, and he deſpiſed the ſhame for Chriſt though he cru<g ref="char:EOLhyphen"/>cified him. He ſaith, <hi>that be is going apace toward the red Sea, his feet being upon the brink, and it is an argument, that God is bringing him to the Land of promiſe, and that he inſtituted a Paſſover for them;</hi> ſo <hi>Pharaoh</hi> was going a pace toward the read ſea when he perſecuted the children of Iſrael; a poore argument that ever he ſhould come to the land of <hi>Canaan,</hi> but he was drowned in the ſea againſt his wil, ſo you, whilſt your chariot wheels were on, but now you are come to the red Sea againſt your will, ſo as <hi>Pharaoh</hi> and all his hoſt were drowned, your head hath bin chopt off, and your red bloud run about the ſcaffold: but Iſrael paſſed thorough dryſhod and triumphed over <hi>Pharaoh</hi> and all his Hoſt, as the ſaints do now over you, your head being chopt off; the Paſſover was inſtituted but for Iſrael, and the Lord paſt them by, but the firſt borne of <hi>Pharaoh</hi> were all ſlaine; ſo God hath paſſed by thoſe which you have perſecuted, and you are catched in the ſame ſnare; <hi>Hagaion &amp; ſelah.</hi> As for your digeſting the ſoure Herbs, you muſt whether you will or no: and for your being not angry; it is becauſe your Horns be cut off, the day hath been, when you would not have been well pleaſed with the hearing tell of ſuch ſoure and bitter Herbs: and though you were a chiefe Biſhop you miſtake Chriſts example, <hi>for when hee prayeth that the Cup might paſſe from him,</hi> he prayeth ſo, that the people might underſtand him, and the Apoſtle ſaith, <hi>bee will pray with the ſpirit and with underſtanding alſo: elſe how could they that occupied the roome of the unlearned ſay Amen?</hi>
+               </p>
+               <p>In the next place you ſee, though he had ſome faith ſuch a one as it was; that Iſrael was ſaved and their enemies
+<pb n="9" facs="tcp:154979:7"/>drowned, and the three Children freed from the fiery fur<g ref="char:EOLhyphen"/>nace, and they that put them in burned, ſo that he ſhould be delivered, and they which hee ſuffered under ſhould ſuffer themſelves; but hee wanted a Revelation for that. He told us alſo, that his reſolution was as the three Chil<g ref="char:EOLhyphen"/>drens, and not to worſhip the Image which the King had ſet up: telling us that the people had ſet up their ima<g ref="char:EOLhyphen"/>ginations, ſaying, that he would not forſake the Tem<g ref="char:EOLhyphen"/>ple and Truth, <hi>to follow the bleating of Ierobvames Calves in Dan and Bethell;</hi> you ſee his thoughts of the erecting worſhip, but hee ſayd nothing of the bleating of the Sheepe, and the lowing of the Oxen, which where in <hi>Pauls</hi> and many other places puld downe by Order of Par<g ref="char:EOLhyphen"/>liament; though formerly reedified by himſelfe. <hi>He pray<g ref="char:EOLhyphen"/>ed that God would open the Peoples eyes, that they might ſee the right way, for if the blind lead the blind they will both fall into the ditch,</hi> it was well conſidered, for he had led ſo many into the ditch himſelfe, that except they ſee a righter way then he led them, will not get out in haſt.</p>
+               <p>And as for his Repentance looke into the Epiſtle to the Reader, but behold what a foule heart he had: for after he had ranſaked it hee found no ſinnes there (they being hid as <hi>Saul</hi> was amongſt the ſtuffe,) that deſerved Death by any juſt Lawes of this Kingdome: here is worke for the Parliament, he meanes it may be repealing worke, though he cleares the Judges with his mouth, yet there might be ſeven abominations in his heart, for I am ſure hee con<g ref="char:EOLhyphen"/>demns the witneſſes, and leaving Chriſt, he takes comfort in <hi>Elfegus;</hi> you ſee that hee keeps his Supremacy ſtill, as the Pope, which ſaith, that he is Chriſts Viegerent upon Earth, forgetting what Chriſt ſaid to his Apoſtler, <hi>let him that it chiefe amongſt you be your ſervant: call no man Lord, for one is your Lord which is Ieſus Chriſt; bee not Lords
+<pb n="10" facs="tcp:154979:8"/>over Gods heritage;</hi> you ſee hee tumbles good cauſes and bad together, and good perſons and bad together: daub<g ref="char:EOLhyphen"/>ing up his comforts with <hi>Iohn</hi> the Baptiſt, <hi>Paul,</hi> and <hi>Ste<g ref="char:EOLhyphen"/>ven,</hi> and with ancient Fathers, as the Papiſts his Bre<g ref="char:EOLhyphen"/>thren doe.</p>
+               <p>
+                  <hi>He ſaid alſo that the Pope had never ſuch a Harveſt in his life,</hi> but if it ſhould come to the Popes care, he would give him little thanks for his report; if Heading, Hanging, Draw<g ref="char:EOLhyphen"/>ing and Quartering, cutting off Archbiſhops hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s be ſuch a harveſt, he will not medle with it, take th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who will.</p>
+               <p>You ſee alſo what a favorite hee was to the King, and and how he knowes his mind; and who was his counſellor or <hi>Achitophel;</hi> but I remember <hi>Pharaoh</hi> he ſaw it pleaſed the people and ſo he proceeded further.</p>
+               <p>Citizens cleare your ſelves, for you are taxed by my Lords Booke for going to the Parliament, to cry out for Juſtice, and there is Scripture againſt you<g ref="char:punc">▪</g> ſo that by con<g ref="char:EOLhyphen"/>ſequence for this great crime you wil bring innocent bloud on your ſelves, but it may bee hee gives you this caution to make the People thinke himſelfe Innocent and you guilty.</p>
+               <p>Now I am come to my Lords lamentation <hi>for the poore Church of England,</hi> whileſt my Lord was Arch-governour, you were kept in good order, all things went well, <hi>Pauls</hi> went up apace, all the reſt of the houſes were puld down that prophaned it, Organs repaired, and not pulled downe, I puniſhed thoſe that ſpake againſt the Service Booke; the Singers alſo had their wages, but now inſtead of ſinging longs of alacrity, they ſing ſongs of lacrymae. Profaneneſſe comes in, and is already, the high Com<g ref="char:EOLhyphen"/>miſſion Court is put downe, every man may doe what hee lift, theſe Puritans, Roundheads, may doe what they pleaſe, whereas I could have ſlit their Noſes, cut their
+<pb n="11" facs="tcp:154979:8"/>Eares, ſet them on the Pilory, Starved, Impriſoned, Com<g ref="char:EOLhyphen"/>pelled them to blaſpheme as <hi>Paul</hi> did, and perſecuted them unto ſtrange Cities.</p>
+               <p>The laſt particular, (for my Lord made haſte, becauſe the headſ-man ſtaid for him) be tels us of his birth, where he was borne and baptized; to wit, in the Church of England: but he forgetteth Sion, which ſaith, this man was borne there, and that Jeruſalem which is from above is the mother of us all. Although he hath been a ruler in England, we have not yet one word of his new birth. But ſome of his Chaplains would have done well to have prea<g ref="char:EOLhyphen"/>ched out of the third of <hi>Iohn</hi> upon his Maſters Pulpit, ra<g ref="char:EOLhyphen"/>ther then to have let him preached himſelfe; it may be that might have done him ſome good, and hindred him from ſending abroad his hypocriticall or Jeſuiticall poyſon into the world, and wreſting of Scriptures to his owne pardition.</p>
+               <p>Alſo he ſaith, <hi>this is no time for to diſſemble.</hi> Is not this the way of all Jeſuits, to die with m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntall reſervation ac<g ref="char:EOLhyphen"/>cording to Law, who knows his meaning<g ref="char:punc">▪</g> telling us of his innocencie, how he laboured to keepe an uniformity; yea and did, one with the Pope; and would have done with Scotland alſo, by ſending of his poyſon thither, if God had not prevented him in his owne time. Alſo, what clamours of the people hath he ſuffered; how have they clamored, or rather cried out of him for impriſoning of their husbands, children, and friends, robbing them by his Purſevants, ſilencing, and turning wife and children out of doores. He proceeds, and contrary to all witneſſes, and proceedings of Parliament, cleares himſelfe from Treaſon, or whatſoever is laid againſt him; but as good a Lawyer as he was, let Maſter <hi>Prynne</hi> alone with him, he
+<pb n="12" facs="tcp:154979:9"/>hath perſecuted him once for his ſincerity, but now he hath or will lay open his hypocriſie. He ſaith he would not enlarge himſelfe, and ſo forgives others, and would have others forgive him; he derogates a little from his former practiſes in the High-commiſſion-Court: for then he granted out forgiveneſſes for others, and asked none himſelfe; deſiring them to joyne with him in prayer, (though <hi>Salomon</hi> ſaith, <hi>that the prayers of the wicked are an abomination to the Lord,</hi>) the manner and matter being both falſe. God promiſed that he would poure upon the houſe of <hi>David</hi> the Spirit of prayer and ſupplication. <hi>Paul</hi> prayed with the ſpirit and underſtanding alſo, and ſaith, that the Spirit helpeth the infirmities which cannot be uttered by them; at the day of Pentecoſt, or the
+<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> fiftieth day, the Spirit came downe in cloven tongues, not Books, Beads or Crucifixes: but my Lord though he was ar<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, was not there, therefore excuſe him. He deſired the Lord to looke upon him, but not till he was bathed in the blood of Chriſt: here you ſee he queſtions his aſſurance. He prayes that the King and his poſterity, and the people may be eſtabliſhed in their juſt Lawes, and ancient liberties: you know what he meanes.</p>
+            </div>
+            <div type="part">
+               <head>Some Obſervations upon Sir <hi>John Clotworthys</hi> Queſtions, and my Lords Anſwers.</head>
+               <sp>
+                  <speaker>I.</speaker>
+                  <p>SIr <hi>Iohn Clothworthy</hi> aſked him, what ſpeciall place of Scripture was moſt comfortable now at his de<g ref="char:EOLhyphen"/>parture.</p>
+               </sp>
+               <sp>
+                  <pb n="13" facs="tcp:154979:9"/>
+                  <speaker>C.</speaker>
+                  <p>He anſwers in Latin, that <hi>he deſires to be diſſolved, and to be with Chriſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Star.</speaker>
+                  <p>You ſee, as he has got his honour by learning, ſo he loſeth his honour with learning. The Goſpell ſaith, <hi>If any ſpeake in anunknown Tongue, let it be interpreted.</hi> As alſo, that <hi>he had rather ſpeake five words that he might teach others, then ten thouſand words in an unknowne Tongue.</hi> But my Lord forgot that.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Sir <hi>Iohn Clothworthy</hi> told him, that was a good deſire, but there muſt be a foundation for that deſire, as aſſu<g ref="char:EOLhyphen"/>rance.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>He anſwers, that no man can expreſſe it, it was to be found within.</p>
+               </sp>
+               <sp>
+                  <speaker>Star.</speaker>
+                  <p>A fit man to be a Biſhop; doth not the Scripture ſay, <hi>With the heart man believeth to ſalvation, and with the tongue confeſſion is made.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>I.</speaker>
+                  <p>Sir <hi>John Clothworthy</hi> ſaid, It is founded on a word, and that word would be knowne.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>He anſwered, That word is the knowledge of Jeſus Chriſt, and him alone.</p>
+               </sp>
+               <sp>
+                  <speaker>Star.</speaker>
+                  <p>But my Lord came too ſhort of giving Sir <hi>Iohn</hi> ſa<g ref="char:EOLhyphen"/>tisfaction according to his queſtion. Thoſe that have the knowledge of Chriſt within them are able to expreſſe it to others. But my Lord ſatisfied us not that the Lord is within him.</p>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="14" facs="tcp:154979:10"/>
+            <head>TO THE READER on the <hi>Authors</hi> name.</head>
+            <lg>
+               <l>
+                  <hi>WHen I did heare the people to admire,</hi>
+               </l>
+               <l>
+                  <hi>With zeale my heart did burne like any fire.</hi>
+               </l>
+               <l>
+                  <hi>What they did ſpeake, and I my ſelfe did thinke</hi>
+               </l>
+               <l>
+                  <hi>Will I write down with Paper, and with Inke.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Iniquity to heare them to commend,</hi>
+               </l>
+               <l>
+                  <hi>I had done ill if it I bad<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not pend.</hi>
+               </l>
+               <l>
+                  <hi>I hearing ill extold, and good cald evill,</hi>
+               </l>
+               <l>
+                  <hi>It to paſſe by, in me had been uncivill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Looke and behold, and ſee how they applaud</hi>
+               </l>
+               <l>
+                  <hi>Like to a God, I meane their little</hi> Laud.</l>
+               <l>
+                  <hi>Like to a martyr do they thinke he dy'd,</hi>
+               </l>
+               <l>
+                  <hi>Lo by the law a malefactor try'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Looke not on men, they are but duſt and clay,</hi>
+               </l>
+               <l>
+                  <hi>Let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>othing in them ſteale your hearts away;</hi>
+               </l>
+               <l>
+                  <hi>Like to a ſhade from hence away they paſſe,</hi>
+               </l>
+               <l>
+                  <hi>Like to a dream, a bubble, or like graſſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:154979:10"/>
+               <l>
+                  <hi>I doe admire, and yet admire I not,</hi>
+               </l>
+               <l>
+                  <hi>In this plaine caſe you ſhould be ſo beſot.</hi>
+               </l>
+               <l>
+                  <hi>If in his life ſo many were bereaved,</hi>
+               </l>
+               <l>
+                  <hi>In death much more they well might be deceived.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Alas poore ſoules, ſuch thoughts as theſe a ſhun,</hi>
+               </l>
+               <l>
+                  <hi>Above looke up, and ſee what God hath done,</hi>
+               </l>
+               <l>
+                  <hi>Admire and wonder at his Parliament,</hi>
+               </l>
+               <l>
+                  <hi>And leave ſuch thoughts as give your ſelves content.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Murthers and treaſons till they have ſuppreſt,</hi>
+               </l>
+               <l>
+                  <hi>Minutes, nights, houres, taking little reſt:</hi>
+               </l>
+               <l>
+                  <hi>Maintaining innocents in a right cauſe,</hi>
+               </l>
+               <l>
+                  <hi>Malignants puniſhing that break the Laws.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Such that in priſon once were forc'd to lie,</hi>
+               </l>
+               <l>
+                  <hi>Strange Countreys alſo forced for to flie,</hi>
+               </l>
+               <l>
+                  <hi>Seeking for ſhelter, wandring up and down,</hi>
+               </l>
+               <l>
+                  <hi>Set are in places now of great renown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tho Noſes ſlit, impriſoned, loſt their Eares,</hi>
+               </l>
+               <l>
+                  <hi>They much reſpected are of Noble Peeres.</hi>
+               </l>
+               <l>
+                  <hi>Tho Biſhops once upon them much did frown,</hi>
+               </l>
+               <l>
+                  <hi>The Prelates prond for them are pulled down.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>All you that captives were, and now ſet free,</hi>
+               </l>
+               <l>
+                  <hi>Above your voices lift you up with me;</hi>
+               </l>
+               <pb n="16" facs="tcp:154979:11"/>
+               <l>
+                  <hi>Admire and wonder at ſuch things as theſe,</hi>
+               </l>
+               <l>
+                  <hi>At God alone, and let him have the praiſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Raiſe up your heads, and clap your hands for joy,</hi>
+               </l>
+               <l>
+                  <hi>Remember how he doth your foes deſtroy:</hi>
+               </l>
+               <l>
+                  <hi>Revive a little tho they doe and ſpread,</hi>
+               </l>
+               <l>
+                  <hi>Rotten they be, and ſoon they will be dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Blood which is innocent, he that doth ſpill,</hi>
+               </l>
+               <l>
+                  <hi>Blood he himſelfe ſhall drinke againſt his will.</hi>
+               </l>
+               <l>
+                  <hi>Blood againſt</hi> Caine <hi>aloud to Heaven cryed,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe that</hi> Abell <hi>innocently dyed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nto all you I doe my ſpeech direct,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nity which as yet doe not affect;</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nto the Lord, and never give him leave</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ntill in mercy he doe you receive.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Call unto God that he would give you grace,</hi>
+               </l>
+               <l>
+                  <hi>Cry unto him whilſt you have time and ſpace.</hi>
+               </l>
+               <l>
+                  <hi>Crave pardon now before that you be dead,</hi>
+               </l>
+               <l>
+                  <hi>Cauſe you the blood of innocents have ſhed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Keep in your hearts theſe Verſes few of mine,</hi>
+               </l>
+               <l>
+                  <hi>Know what they meane, and con them time by time,</hi>
+               </l>
+               <l>
+                  <hi>Kiſſe exhortations good, and eke embrace,</hi>
+               </l>
+               <l>
+                  <hi>Know God in time, to day ſeeke you his face.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
